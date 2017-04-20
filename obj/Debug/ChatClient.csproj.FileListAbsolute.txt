@@ -1,0 +1,11 @@
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\obj\Debug\ChatClient.FormChatWindow.resources
+C:\Programming\C#\ChatAttempt6\ChatClient\ChatClient\bin\Debug\System.Net.Http.dll
