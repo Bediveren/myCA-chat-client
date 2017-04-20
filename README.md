@@ -1,5 +1,6 @@
 # myCA-chat-client
-A simple multi-client chat application done in C# using WinForms  
+A simple multi-client chat application done in C# using WinForms.  
+Requires .NET 4.0 or above.  
 
 USAGE:
 - Use the [myCA server] to create a server. 
